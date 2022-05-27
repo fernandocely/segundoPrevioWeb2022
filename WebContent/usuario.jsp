@@ -18,7 +18,7 @@
         <div id="central">
             <div id="login">
                 <div class="titulo">
-                    <img src="img/logo.jpg">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvUSezboG5tep2C_rhSLcr5Pa-dqaBfZdkMS7vexcLzgvroPeYPxTvxRVg1ces05XvJY&usqp=CAU">
                 </div>
                 <form id="loginform">
                     <p>Username</p>
@@ -42,7 +42,7 @@
               <div class="col-6 col-md">
                 <h5>Informacion</h5>
                 <ul class="list-unstyled text-small">
-                  <li><a class="link-secondary">Primer previo web</a></li>
+                  <li><a class="link-secondary">Segundo previo web</a></li>
                   
                 </ul>
               </div>
@@ -50,6 +50,5 @@
         
             <p>&copy; 2022 Derechos Reservados</p>
           </footer> 
- <script type="text/javascript" src="js/login.js"></script>
 </body>
 </html>
